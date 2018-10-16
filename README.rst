@@ -30,14 +30,4 @@ default_value -> it is the default value which will excute if any of the given c
 where,
 value -> the case the need to be applied.
 
-
-Example :
-
-import SwitchCaseDev.
-exg = SwitchCaseDev.switch(case_list={"a":2,"b":4},default_value=0).
-print(exg.case("a").
-
-Output:
-2
-
-Note: All name I tried are unavailable so I switch the name to SwitchCaseDev.
+``NOTE``: All name I tried are unavailable so I switch the name to SwitchCaseDev.
