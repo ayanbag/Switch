@@ -28,9 +28,9 @@ value -> the case the need to be applied.
 
 Example :
 ..code-block::python
-        import SwitchCaseDev
-        exg=SwitchCaseDev.switch(case_list={"a":2,"b":4},default_value=0)
-        print(exg.case("a")
+import SwitchCaseDev
+exg=SwitchCaseDev.switch(case_list={"a":2,"b":4},default_value=0)
+print(exg.case("a")
 
 Output:
 2
