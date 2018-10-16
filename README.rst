@@ -10,24 +10,24 @@ Basic Usage:
 ``switch()``:
 
 Basic Syntax:
-.. code-block::python
+..code-block::python
     switch(case_list,default_value)
 where,
-    case_list -> a dictionary item , it contains the dictionary of all the case in which switch will be applied
-    default_value -> it is the default value which will excute if any of the given case is not applied.
+case_list -> a dictionary item , it contains the dictionary of all the case in which switch will be applied
+default_value -> it is the default value which will excute if any of the given case is not applied.
 
 
 ``case()``:
 
 Basic Syntax:
-.. code-block::python
+..code-block::python
         case(value)
-    where,
-    value -> the case the need to be applied.
+where,
+value -> the case the need to be applied.
 
 
 Example :
-.. code-block::python
+..code-block::python
         import SwitchCaseDev
         exg=SwitchCaseDev.switch(case_list={"a":2,"b":4},default_value=0)
         print(exg.case("a")
