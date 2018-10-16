@@ -19,7 +19,7 @@ Basic Usage:
  
 where,
 case_list -> a dictionary item , it contains the dictionary of all the case in which switch will be applied
-default_value -> it is the default value which will excute if any of the given case is not applied.
+AND default_value -> it is the default value which will excute if any of the given case is not applied.
 
 
 ``case()``:
