@@ -8,8 +8,8 @@ It is also a implementation of a simple Switch-Case in Python.
 
 pip install SwitchCaseDev
 
-``Basic Usage:``
-===============
+``Module Interface:``
+=====================
 
 ``switch()``:
 
