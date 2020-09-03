@@ -1,7 +1,7 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](http://ayanbag.github.io)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](http://ayanbag.github.io)
 
-## SwitchCaseDev
+# SwitchCaseDev
 
 
 ``SwitchCaseDev`` is a command in python command which is similar to switch-case in java and python.
