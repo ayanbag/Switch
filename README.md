@@ -36,7 +36,6 @@ case(value)
 ``
 where, value = the case the need to be applied.
 
-> NOTE: All name I tried are unavailable so I switch the name to SwitchCaseDev.
 
 ### Demo:
 
