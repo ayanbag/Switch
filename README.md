@@ -14,7 +14,7 @@ pip install SwitchCaseDev
 ``Module Interface:``
 =====================
 
-**switch()**:
+**1. switch()**:
 
 Basic Syntax:
 
@@ -27,7 +27,7 @@ where,
 - default_value = it is the default value which will excute if any of the given case is not applied.
 
 
-**case()**:
+**2. case()**:
 
 Basic Syntax:
 
@@ -38,7 +38,7 @@ where, value = the case the need to be applied.
 
 > NOTE: All name I tried are unavailable so I switch the name to SwitchCaseDev.
 
-**Demo**:
+**3. Demo**:
 
 ```
 import Switch_Case
